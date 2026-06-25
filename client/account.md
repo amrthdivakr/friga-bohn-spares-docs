@@ -2,6 +2,8 @@
 
 ## Sign in
 
+Sign in to your account to access your orders, invoices, and profile.
+
 - Click account icon
 - Complete login on Friga Bohn screen
 - Returned to the site when done
@@ -12,62 +14,74 @@
 
 ## Account navigation
 
+Navigate to your account to access your orders, invoices, and profile. 
+
 From the buttons under your name (depends on role):
 
 - **Orders** — quotes and invoices (most users)
-- **Users** — manage team (admins)
-- **Profile** — name
-- **Addresses** — delivery addresses
-- **Company** — distributor admin only
-
-Web Admin users land on **Users** instead of Orders.
+- **Users** — manage users (admins)
+- **Profile** — update name
+- **Addresses** — add and edit delivery addresses and set as default
+- **Company** — company, catalog and location details, add locations and set price visibility restrictions (distributor admin only)
 
 ---
 
 ## Orders (`/account/orders`)
 
+Navigate to your orders to view quotes and invoices. Tables to manage draft orders and orders.
+
 ### Switch view
 
 - Tabs: All / Recent / Drafts / Orders
 
-### Open a recent quote
+### View locations (distributor admin only)
 
-- Click a card under Recent quotes
+- Click a location card
+- View drafts and orders for that location
 
-### Open a recent invoice
+### View a recent quote document
 
-- Click a card under Recent invoices
+- View a card under Recent quotes
+- Click Open button to open the quote
+- Click Download button to download the quote
+- Click Copy icon to copy the quote number to clipboard
 
-### See all quotes
+### Open a recent invoice document
+
+- View a card under Recent invoices
+- Click Open button to open the invoice
+- Click Download button to download the invoice
+- Click Copy icon to copy the invoice number to clipboard
+
+### See all quotes documents
 
 - **View all** under Recent quotes → full quote list
 
-### See all invoices
+### See all invoices documents
 
 - **View all** under Recent invoices → full invoice list
 
-### Find a quote in the table
+### Find a draft order in the table
 
 - Sort by column header
-- Use search if shown
+- Columns supporting sorting will have a sort icon
+- Search by order number (e.g. `#D1042`)
 - Change page at bottom
-- Click a row → quote page
+- Click a row → draft order page
 
-### Find an invoice in the table
+### Find an order in the table
 
 - Sort by column header
+- Columns supporting sorting will have a sort icon
 - Search by order number (e.g. `#1042`)
-- Change page
-- Click a row → invoice page
-
-### Location orders (distributor admin)
-
-- Open a location (when shown) → `/account/locations/...`
-- Same table actions, scoped to that location
+- Change page at bottom
+- Click a row → order page
 
 ---
 
 ## All quotes (`/account/orders/quotes`)
+
+Navigate to all quotes to view all quotes documents.
 
 ### Back to orders hub
 
@@ -85,6 +99,8 @@ Web Admin users land on **Users** instead of Orders.
 
 ## All invoices (`/account/orders/invoices`)
 
+Navigate to all invoices to view all invoices documents.
+
 ### Back to orders hub
 
 - Click **Orders** link at top
@@ -101,7 +117,7 @@ Web Admin users land on **Users** instead of Orders.
 
 ## Location orders (`/account/locations/...`)
 
-Distributor admin only.
+Navigate to location orders to view quotes and invoices for a location. Distributor admin only.
 
 ### View quotes for location
 
@@ -115,6 +131,8 @@ Distributor admin only.
 
 ## Profile (`/account/profile`)
 
+Navigate to your profile to update your name.
+
 ### Update name
 
 - Edit first / last name
@@ -123,6 +141,8 @@ Distributor admin only.
 ---
 
 ## Addresses (`/account/addresses`)
+
+Navigate to your addresses to add, edit and delete delivery addresses and set as default.
 
 ### Add an address
 
@@ -147,7 +167,7 @@ Distributor admin only.
 
 ## Users (`/account/users`)
 
-Admins only (Web Admin, Distributor Admin, Location Admin).
+Navigate to users to manage users. Admins only (Web Admin, Distributor Admin, Location Admin).
 
 ### Add a user
 
@@ -175,7 +195,7 @@ Admins only (Web Admin, Distributor Admin, Location Admin).
 
 ## Company (`/account/company`)
 
-Distributor admin only.
+Navigate to company to view company details, add locations, view active catalogs and restrict catalog prices. Distributor admin only.
 
 ### View company details
 
@@ -183,10 +203,9 @@ Distributor admin only.
 
 ### Restrict catalog prices
 
+On - Distributors and Location Admins see base prices
+Off - All users see prices from the catalog
+
 - Toggle **Restrict catalog prices**
 - Confirm in the dialog
 - Affects what prices users at your company see
-
-### Cancel price toggle
-
-- Click **Cancel** in the confirmation dialog

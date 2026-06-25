@@ -2,6 +2,8 @@
 
 ## Cart (`/cart`)
 
+[Step by step visual guide](https://scribehow.com/o/AmjRagUGQxOh31NKNgqRAQ/viewer/How_To_Manage_Cart_and_Generate_A_Quote__xt0avH9fRmiXzsXKLhCSbQ)
+
 ### Review lines
 
 - Open cart from header icon
@@ -55,6 +57,8 @@
 
 ## Quote — order form (same page, after Generate invoice)
 
+[Step by step visual guide](https://scribehow.com/o/AmjRagUGQxOh31NKNgqRAQ/viewer/How_to_Process_and_Share_Your_Quote_Invoice__bvfzUJlrSKaQKsHbQFYQgg)
+
 ### Fill in details
 
 - Purchase order number
@@ -76,15 +80,6 @@
 
 ---
 
-## Quote PDF view (`/quote/.../share`)
-
-### View or print PDF
-
-- Page opens as full-screen PDF
-- Use browser print or save as PDF
-
----
-
 ## Invoice (`/invoice/...`)
 
 ### Review invoice
@@ -101,26 +96,3 @@
 - Share or copy link
 
 ---
-
-## Invoice PDF view (`/invoice/.../share`)
-
-### View or print PDF
-
-- Full-screen PDF
-- Print or save from browser
-
----
-
-## Something went wrong (`/cart/error`)
-
-### Read the message
-
-- Note what failed
-
-### Check orders anyway
-
-- If message mentions processing delay, check **Orders** in account
-
-### Go back
-
-- Click **Back to orders**
