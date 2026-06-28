@@ -27,4 +27,4 @@ Learn how to efficiently navigate and manage specific orders within your Shopify
 ![](../images/shopify-admin/order/step-05.jpeg)
 
 
-[Go back to Shopify Admin](../shopify-admin.md)
+> ↑ [Go back to Shopify Admin](../shopify-admin.md)

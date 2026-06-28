@@ -24,4 +24,4 @@ Learn how to efficiently locate specific products or model numbers using the sto
 
 ![](../images/catalog/model-search/step-04.jpeg)
 
-[Go back to Catalogue](../catalogue.md)
+> ↑ [Go back to Catalogue](../catalogue.md)

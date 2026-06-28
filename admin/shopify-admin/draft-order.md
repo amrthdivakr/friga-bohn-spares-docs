@@ -20,4 +20,4 @@ Learn how to quickly locate and open a saved draft order within your Shopify adm
 
 ![](../images/shopify-admin/draft-order/step-04.jpeg)
 
-[Go back to Shopify Admin](../shopify-admin.md)
+> ↑ [Go back to Shopify Admin](../shopify-admin.md)

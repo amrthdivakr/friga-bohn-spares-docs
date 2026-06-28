@@ -27,4 +27,4 @@ Learn how to manage your business operations by adding new locations to your com
 ![](../images/account/company-page/step-05.jpeg)
 
 
-[Go back to Accounts](../account.md)
+> ↑ [Go back to Accounts](../account.md)

@@ -16,4 +16,4 @@ Learn how to efficiently browse through specific product categories to find the 
 
 ![](../images/catalog/filter/step-03.jpeg)
 
-[Go back to Catalogue](../catalogue.md)
+> ↑ [Go back to Catalogue](../catalogue.md)

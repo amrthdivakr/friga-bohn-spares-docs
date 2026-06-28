@@ -46,5 +46,5 @@ Learn how to access and update specific product information and metafields withi
 
 ![](../images/shopify-admin/product/step-09.jpeg)
 
-[Go back to Shopify Admin](../shopify-admin.md)
+> ↑ [Go back to Shopify Admin](../shopify-admin.md)
 

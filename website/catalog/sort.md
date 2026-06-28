@@ -21,4 +21,4 @@ Learn how to efficiently organize your product listings by adjusting sort prefer
 
 ![](../images/catalog/sort/step-04.jpeg)
 
-[Go back to Catalogue](../catalogue.md)
+> ↑ [Go back to Catalogue](../catalogue.md)

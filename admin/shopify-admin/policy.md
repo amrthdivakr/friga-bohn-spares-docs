@@ -75,4 +75,4 @@ Learn how to easily link your store's privacy policy to your website's footer me
 
 ![](../images/shopify-admin/policy/step-15.jpeg)
 
-[Go back to Shopify Admin](../shopify-admin.md)
+> ↑ [Go back to Shopify Admin](../shopify-admin.md)

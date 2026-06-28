@@ -44,4 +44,4 @@ Learn how to efficiently locate specific components using the search functionali
 
 ![](../images/catalog/model-parts-search/step-08.jpeg)
 
-[Go back to Catalogue](../catalogue.md)
+> ↑ [Go back to Catalogue](../catalogue.md)

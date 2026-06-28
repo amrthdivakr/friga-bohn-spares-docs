@@ -2,7 +2,7 @@
 
 This page provides a comprehensive guide to the catalogue section of the website. It includes instructions for navigating the catalogue, searching for products, and viewing product details.
 
-[Go back to Website Documentation](./README.md)
+> ↑ [Go back to Website Documentation](./README.md)
 
 ## Home
 
@@ -12,7 +12,7 @@ Search for models and parts by name or number from the home page.
 
 Search for models by name from the home page.
 
-[How to Search for Models from the home page](./catalog/model-serach-home.md)
+> ↗ [How to Search for Models from the home page](./catalog/model-serach-home.md)
 
 - Choose **Models** in the dropdown
 - Type model name or number
@@ -23,7 +23,7 @@ Search for models by name from the home page.
 
 Search for parts by name or number from the home page.
 
-[How to Search for Parts from the home page](./catalog/parts-search.md)
+> ↗ [How to Search for Parts from the home page](./catalog/parts-search.md)
 
 - Choose **Parts** in the dropdown
 - Type part name or number
@@ -45,7 +45,7 @@ Navigate to the models browse page to view all models.
 
 Search for models by name from the models browse page.
 
-[How to Search for Models from the models browse page](./catalog/model-search.md)
+> ↗ [How to Search for Models from the models browse page](./catalog/model-search.md)
 
 - Type in the search field
 - Submit → results update
@@ -56,7 +56,7 @@ Search for models by name from the models browse page.
 
 Filter models by category from the models browse page.
 
-[How to Filter Models by Category from the models browse page](./catalog/filter.md)
+> ↗ [How to Filter Models by Category from the models browse page](./catalog/filter.md)
 
 - Desktop: pick a category in the sidebar
 - Mobile: tap **Filters**, pick a category, close drawer
@@ -66,7 +66,7 @@ Filter models by category from the models browse page.
 
 Sort models by new, A-Z, Z-A from the models browse page.
 
-[How to Sort Models from the models browse page](./catalog/sort.md)
+> ↗ [How to Sort Models from the models browse page](./catalog/sort.md)
 
 - New / A–Z / Z–A
 
@@ -84,7 +84,7 @@ Sort models by new, A-Z, Z-A from the models browse page.
 
 Navigate to the model page to view a model and its parts.
 
-[How to Search and View Product Parts For a Modal Documentation](./catalog/model-parts-search.md)
+> ↗ [How to Search and View Product Parts For a Modal Documentation](./catalog/model-parts-search.md)
 
 ### Go back to all models
 
@@ -123,7 +123,7 @@ Navigate to the parts page to view all parts.
 
 ### Search parts
 
-[How to Search for Parts from the parts page](./catalog/part-code-search.md)
+> ↗ [How to Search for Parts from the parts page](./catalog/part-code-search.md)
 
 - Type part name or number
 - Submit
@@ -150,7 +150,7 @@ Navigate to the parts page to view all parts.
 
 Navigate to the part page to view a part and its details.
 
-[How to Manage Parts and Cart Selections on the Part page](./catalog/part-page.md)
+> ↗ [How to Manage Parts and Cart Selections on the Part page](./catalog/part-page.md)
 
 ### Go back to model parts list
 
@@ -182,4 +182,4 @@ Navigate to the part page to view a part and its details.
 - Scroll to **Other parts for …**
 - Click a card
 
-[Go back to Website Documentation](./README.md)
+> ↑ [Go back to Website Documentation](./README.md)

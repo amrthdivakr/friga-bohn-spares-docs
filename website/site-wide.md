@@ -2,7 +2,7 @@
 
 This page provides a comprehensive guide to the site-wide navigation of the website. It includes instructions for navigating the site, searching for products, and viewing product details.
 
-[Go back to Website Documentation](./README.md)
+> ↑ [Go back to Website Documentation](./README.md)
 
 ## Go to Home
 
@@ -42,4 +42,4 @@ This page provides a comprehensive guide to the site-wide navigation of the webs
 - Models, Parts
 - FAQ / support, order tracking, account (where applicable)
 
-[Go back to Website Documentation](./README.md)
+> ↑ [Go back to Website Documentation](./README.md)

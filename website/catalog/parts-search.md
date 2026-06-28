@@ -29,4 +29,4 @@ Learn how to efficiently locate specific inventory items using the search functi
 
 ![](../images/catalog/parts-search/step-05.jpeg)
 
-[Go back to Catalogue](../catalogue.md)
+> ↑ [Go back to Catalogue](../catalogue.md)

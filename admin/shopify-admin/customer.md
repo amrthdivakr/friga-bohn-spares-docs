@@ -66,4 +66,4 @@ Learn how to efficiently update contact details, job titles, and administrative 
 ![](../images/shopify-admin/customer/step-13.jpeg)
 
 
-[Go back to Shopify Admin](../shopify-admin.md)
+> ↑ [Go back to Shopify Admin](../shopify-admin.md)

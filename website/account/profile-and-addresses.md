@@ -29,4 +29,4 @@ Learn how to efficiently navigate your account settings to update personal profi
 
 ![](../images/account/profile-and-addresses/step-05.jpeg)
 
-[Go back to Accounts](../account.md)
+> ↑ [Go back to Accounts](../account.md)

@@ -60,4 +60,4 @@ Learn how to efficiently manage your B2B offerings by setting up a new catalog w
 
 ![](../images/shopify-admin/company-catalog/step-12.jpeg)
 
-[Go back to Shopify Admin](../shopify-admin.md)
+> ↑ [Go back to Shopify Admin](../shopify-admin.md)

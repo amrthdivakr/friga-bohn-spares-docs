@@ -56,4 +56,4 @@ Follow this guide to learn the necessary steps for adding/update users to your S
 
 ![](../images/account/manage-users/step-11.jpeg)
 
-[Go back to Accounts](../account.md)
+> ↑ [Go back to Accounts](../account.md)

@@ -64,4 +64,4 @@ Learn how to update company metadata and manage restricted catalogs within your 
 
 ![](../images/shopify-admin/company/step-12.jpeg)
 
-[Go back to Shopify Admin](../shopify-admin.md)
+> ↑ [Go back to Shopify Admin](../shopify-admin.md)

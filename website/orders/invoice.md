@@ -26,4 +26,4 @@ This guide demonstrates how to finalize a purchase order by inputting the necess
 
 ![](../images/orders/invoice/step-05.jpeg)
 
-[Go back to Orders](../orders.md)
+> ↑ [Go back to Orders](../orders.md)

@@ -8,7 +8,7 @@ Minimal steps for common admin tasks on the Friga Bohn spares store.
 
 Use the Shopify Admin to view and manage orders.
 
-[How to View and Handle Orders](./shopify-admin/order.md)
+> ↗ [How to View and Handle Orders](./shopify-admin/order.md)
 
 ### View orders list
 
@@ -38,7 +38,7 @@ Use the Shopify Admin to view and manage orders.
 
 Storefront **quotes** are draft orders. Name format e.g. `#D1042`
 
-[How to Access a Specific Shopify Draft Order](./shopify-admin/draft-order.md)
+> ↗ [How to Access a Specific Shopify Draft Order](./shopify-admin/draft-order.md)
 
 ### View drafts list
 
@@ -67,7 +67,7 @@ Storefront **quotes** are draft orders. Name format e.g. `#D1042`
 
 Each product is a **spare part**. Models are metaobjects, not products.
 
-[How to Find a Product](./shopify-admin/product.md)
+> ↗ [How to Find a Product](./shopify-admin/product.md)
 
 ### Find a product
 
@@ -134,7 +134,7 @@ Models and categories live here — not under Products.
 
 ### Edit a model
 
-[How to Edit a Model](./shopify-admin/model.md)
+> ↗ [How to Edit a Model](./shopify-admin/model.md)
 
 - Open the **Model** entry
 - Edit fields:
@@ -162,7 +162,7 @@ Models and categories live here — not under Products.
 
 Navigate to the customers page to view all customers.
 
-[How to View and Manage Customers](./shopify-admin/customer.md)
+> ↗ [How to View and Manage Customers](./shopify-admin/customer.md)
 
 ### View customers list
 
@@ -199,7 +199,7 @@ Navigate to the customers page to view all customers.
 
 Navigate to the companies page to view all companies.
 
-[How to View and Manage Companies](./shopify-admin/company.md)
+> ↗ [How to View and Manage Companies](./shopify-admin/company.md)
 
 ### View companies list
 
@@ -237,7 +237,7 @@ Navigate to the companies page to view all companies.
 
 B2B catalog pricing per dealer. Used to customers with a company/location linked to them.
 
-[How to View and Manage Catalogs](./shopify-admin/company-catalog.md)
+> ↗ [How to View and Manage Catalogs](./shopify-admin/company-catalog.md)
 
 ### View catalogs
 
@@ -275,7 +275,7 @@ B2B catalog pricing per dealer. Used to customers with a company/location linked
 
 Shown in the storefront footer at `/policies`.
 
-[How to View and Manage Policies](./shopify-admin/policy.md)
+> ↗ [How to View and Manage Policies](./shopify-admin/policy.md)
 
 ### View policies
 

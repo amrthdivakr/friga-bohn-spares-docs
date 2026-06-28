@@ -19,4 +19,4 @@ Learn how to efficiently locate specific components on your Shopify store using 
 
 ![](../images/catalog/part-code-search/step-03.jpeg)
 
-[Go back to Catalogue](../catalogue.md)
+> ↑ [Go back to Catalogue](../catalogue.md)

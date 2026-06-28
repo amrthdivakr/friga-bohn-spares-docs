@@ -35,4 +35,4 @@ Learn how to access and modify specific data fields within your Shopify store's 
 
 ![](../images/shopify-admin/model/step-07.jpeg)
 
-[Go back to Shopify Admin](../shopify-admin.md)
+> ↑ [Go back to Shopify Admin](../shopify-admin.md)

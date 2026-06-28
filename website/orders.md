@@ -2,13 +2,13 @@
 
 This page provides a comprehensive guide to the orders section of the website. It includes instructions for navigating the orders, generating quotes, and processing invoices.
 
-[Go back to Website Documentation](./README.md)
+> ↑ [Go back to Website Documentation](./README.md)
 
 ## Cart (`/cart`)
 
 Navigate to the cart page to view your cart and generate a quote.
 
-[How to Manage Cart and Generate a Quote](./orders/cart.md)
+> ↗ [How to Manage Cart and Generate a Quote](./orders/cart.md)
 
 ### Review lines
 
@@ -67,7 +67,7 @@ Navigate to the quote page to view your quote and generate an invoice.
 
 Navigate to the invoice form page to fill in details and confirm your order.
 
-[How to Process and Share Your Invoice](./orders/invoice.md)
+> ↗ [How to Process and Share Your Invoice](./orders/invoice.md)
 
 ### Fill in details
 
@@ -107,4 +107,4 @@ Navigate to the invoice form page to fill in details and confirm your order.
 
 ---
 
-[Go back to Website Documentation](./README.md)
+> ↑ [Go back to Website Documentation](./README.md)

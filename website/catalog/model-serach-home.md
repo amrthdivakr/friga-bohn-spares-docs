@@ -27,4 +27,4 @@ This guide provides instructions on how to quickly locate specific product model
 
 6\. This will take you to the **Models** page with the search results
 
-[Go back to Catalogue](../catalogue.md)
+> ↑ [Go back to Catalogue](../catalogue.md)

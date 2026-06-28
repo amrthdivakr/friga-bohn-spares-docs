@@ -46,4 +46,4 @@ Learn how to navigate your Shopify account to locate specific order details and 
 
 ![](../images/account/orders-page/step-09.jpeg)
 
-[Go back to Accounts](../account.md)
+> ↑ [Go back to Accounts](../account.md)

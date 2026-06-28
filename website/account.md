@@ -2,7 +2,7 @@
 
 This page provides a comprehensive guide to the account section of the website. It includes instructions for signing in, signing out, account navigation, and accessing orders, invoices, and profile.
 
-[Go back to Website Documentation](./README.md)
+> ↑ [Go back to Website Documentation](./README.md)
 
 ## Sign in
 
@@ -34,7 +34,7 @@ From the buttons under your name (depends on role):
 
 Navigate to your orders to view quotes and invoices. Tables to manage draft orders and orders.
 
-[How to View and Access Customer Order Invoices](./account/orders-page.md)
+> ↗ [How to View and Access Customer Order Invoices](./account/orders-page.md)
 
 ### Switch view
 
@@ -139,7 +139,7 @@ Navigate to location orders to view quotes and invoices for a location. Distribu
 
 Navigate to your profile to update your name.
 
-[Managing Customer Account Details and Addresses](./account/profile-and-addresses.md)
+> ↗ [Managing Customer Account Details and Addresses](./account/profile-and-addresses.md)
 
 ### Update name
 
@@ -152,7 +152,7 @@ Navigate to your profile to update your name.
 
 Navigate to your addresses to add, edit and delete delivery addresses and set as default.
 
-[Managing Customer Account Details and Addresses](./account/profile-and-addresses.md)
+> ↗ [Managing Customer Account Details and Addresses](./account/profile-and-addresses.md)
 
 ### Add an address
 
@@ -179,7 +179,7 @@ Navigate to your addresses to add, edit and delete delivery addresses and set as
 
 Navigate to users to manage users. Admins only (Web Admin, Distributor Admin, Location Admin).
 
-[Managing User Accounts and Permissions](./account/manage-users.md)
+> ↗ [Managing User Accounts and Permissions](./account/manage-users.md)
 
 ### Add a user
 
@@ -209,7 +209,7 @@ Navigate to users to manage users. Admins only (Web Admin, Distributor Admin, Lo
 
 Navigate to company to view company details, add locations, view active catalogs and restrict catalog prices. Distributor admin only.
 
-[How to Add a Company Location and set Price Visibility](./account/company-page.md)
+> ↗ [How to Add a Company Location and set Price Visibility](./account/company-page.md)
 
 ### View company details
 
@@ -224,4 +224,4 @@ Off - All users see prices from the catalog
 - Confirm in the dialog
 - Affects what prices users at your company see
 
-[Go back to Website Documentation](./README.md)
+> ↑ [Go back to Website Documentation](./README.md)

@@ -51,4 +51,4 @@ Learn how to efficiently browse product categories and manage items in your shop
 
 ![](../images/catalog/part-page/step-10.jpeg)
 
-[Go back to Catalogue](../catalogue.md)
+> ↑ [Go back to Catalogue](../catalogue.md)
