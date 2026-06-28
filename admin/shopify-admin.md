@@ -8,6 +8,8 @@ Minimal steps for common admin tasks on the Friga Bohn spares store.
 
 Use the Shopify Admin to view and manage orders.
 
+[How to View and Handle Orders](./shopify-admin/order.md)
+
 ### View orders list
 
 - Go to **Orders**
@@ -34,7 +36,9 @@ Use the Shopify Admin to view and manage orders.
 
 ## Draft orders
 
-Storefront **quotes** are draft orders. Name format e.g. `#D1042` — number after `D` is the quote id on the site.
+Storefront **quotes** are draft orders. Name format e.g. `#D1042`
+
+[How to Access a Specific Shopify Draft Order](./shopify-admin/draft-order.md)
 
 ### View drafts list
 
@@ -62,6 +66,8 @@ Storefront **quotes** are draft orders. Name format e.g. `#D1042` — number aft
 ## Products
 
 Each product is a **spare part**. Models are metaobjects, not products.
+
+[How to Find a Product](./shopify-admin/product.md)
 
 ### Find a product
 
@@ -128,6 +134,8 @@ Models and categories live here — not under Products.
 
 ### Edit a model
 
+[How to Edit a Model](./shopify-admin/model.md)
+
 - Open the **Model** entry
 - Edit fields:
   - **Code** — nameplate series code
@@ -151,6 +159,10 @@ Models and categories live here — not under Products.
 ---
 
 ## Customers
+
+Navigate to the customers page to view all customers.
+
+[How to View and Manage Customers](./shopify-admin/customer.md)
 
 ### View customers list
 
@@ -184,6 +196,10 @@ Models and categories live here — not under Products.
 ---
 
 ## Companies
+
+Navigate to the companies page to view all companies.
+
+[How to View and Manage Companies](./shopify-admin/company.md)
 
 ### View companies list
 
@@ -219,7 +235,9 @@ Models and categories live here — not under Products.
 
 ## Catalogs
 
-B2B catalog pricing per dealer. Usually created by catalog-sync — use manual steps for new locations or exceptions.
+B2B catalog pricing per dealer. Used to customers with a company/location linked to them.
+
+[How to View and Manage Catalogs](./shopify-admin/company-catalog.md)
 
 ### View catalogs
 
@@ -256,6 +274,8 @@ B2B catalog pricing per dealer. Usually created by catalog-sync — use manual s
 ## Policies
 
 Shown in the storefront footer at `/policies`.
+
+[How to View and Manage Policies](./shopify-admin/policy.md)
 
 ### View policies
 
